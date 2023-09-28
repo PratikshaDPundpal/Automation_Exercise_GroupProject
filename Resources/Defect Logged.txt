@@ -1,0 +1,13 @@
+**Defect #1**
+-------------------
+Severity: [Medium]
+Priority: [Medium ]
+Detected By: [Team]
+Detected On: [1 Sept 2023]
+
+**Description:**
+While adding more than 1 quantity of same product in cart and try to remove 1 quantity it is removing all quantities.
+
+**Attachments/Links:**
+https://automationexercise.com/view_cart
+
